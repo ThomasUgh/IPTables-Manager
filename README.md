@@ -20,3 +20,9 @@ Ein einfaches, übersichtliches Tool zur Verwaltung von iptables-Regeln mit inte
 - 📋 **Regel-Übersicht** - Alle aktiven Regeln mit Zeilennummern anzeigen
 - 💾 **Backup & Restore** - Regeln speichern und laden
 - 🛡️ **Sichere Defaults** - Vorkonfigurierte sichere Standardeinstellung
+
+## 📋 Voraussetzungen
+
+- Linux-System (Debian, Ubuntu, CentOS, etc.)
+- Root-Rechte (sudo)
+- `iptables` installiert (meist vorinstalliert)
