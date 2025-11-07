@@ -10,3 +10,13 @@
      | |                                                                __/ |          
      |_|                                                               |___/           
 ```
+
+Ein einfaches, übersichtliches Tool zur Verwaltung von iptables-Regeln mit interaktivem Menü.
+
+## 🚀 Features
+
+- 🔒 **Port-Management** - Ports schnell freigeben oder blockieren (TCP/UDP/Both)
+- 🚫 **IP-Blocking** - Einzelne IP-Adressen blockieren oder freigeben
+- 📋 **Regel-Übersicht** - Alle aktiven Regeln mit Zeilennummern anzeigen
+- 💾 **Backup & Restore** - Regeln speichern und laden
+- 🛡️ **Sichere Defaults** - Vorkonfigurierte sichere Standardeinstellung
