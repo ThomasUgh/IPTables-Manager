@@ -26,3 +26,18 @@ Ein einfaches, übersichtliches Tool zur Verwaltung von iptables-Regeln mit inte
 - Linux-System (Debian, Ubuntu, CentOS, etc.)
 - Root-Rechte (sudo)
 - `iptables` installiert (meist vorinstalliert)
+
+## 📥 Installation
+
+### Option 1: Direkt von GitHub
+```bash
+# Repository klonen
+git clone https://github.com/DEIN-USERNAME/iptables-manager.git
+cd iptables-manager
+
+# Ausführbar machen
+chmod +x iptables-manager.sh
+
+# Starten
+sudo ./iptables-manager.sh
+```
